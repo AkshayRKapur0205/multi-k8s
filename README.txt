@@ -38,8 +38,6 @@ Additional Notes
 Monitor Travis CI builds and Kubernetes deployments for any errors or issues.
 Ensure proper security measures are in place for GCP resources, including IAM roles, network policies, and access controls.
 Regularly update dependencies and configurations to maintain system stability and security.
-Support
-For any questions or issues regarding the Kubernetes-based code deployment system, please contact Akshay Kapur.
 
 Contributing
 Contributions to improve the Kubernetes-based code deployment system are welcome! Fork the repository, make your changes, and submit a pull request.
